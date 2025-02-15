@@ -1,0 +1,62 @@
+{
+  "id":  "dcdd5e6b-c7a0-4ebc-8c5c-b0c3d56e694b",
+  "brand":  "Lenovo",
+  "name":  "Thinkpad X1",
+  "cpu":  {
+    "brand":  "Intel",
+    "name":  "Xeon E-2286M",
+    "number_cores":  6,
+    "number_threads":  7,
+    "min_ghz":  2.844775459049182,
+    "max_ghz":  4.68697332497692
+  },
+  "ram":  {
+    "value":  "27",
+    "unit":  "GIGABYTE"
+  },
+  "gpus":  [
+    {
+      "brand":  "Nvidia",
+      "name":  "GTX 1660-Ti",
+      "min_ghz":  1.395430105994462,
+      "max_ghz":  1.8583245136185382,
+      "memory":  {
+        "value":  "2",
+        "unit":  "GIGABYTE"
+      }
+    }
+  ],
+  "storages":  [
+    {
+      "driver":  "SSD",
+      "memory":  {
+        "value":  "589",
+        "unit":  "GIGABYTE"
+      }
+    },
+    {
+      "driver":  "HDD",
+      "memory":  {
+        "value":  "5",
+        "unit":  "TERABYTE"
+      }
+    }
+  ],
+  "screen":  {
+    "size_inch":  16.047234,
+    "resolution":  {
+      "width":  3978,
+      "height":  2238
+    },
+    "panel":  "OLED",
+    "multitouch":  false
+  },
+  "keyboard":  {
+    "layout":  "QWERTY",
+    "backlit":  false
+  },
+  "weight_kg":  2.6410173796872893,
+  "price_usd":  2923.874259428367,
+  "release_year":  2017,
+  "updated_at":  "2025-02-15T08:18:23.602571Z"
+}
