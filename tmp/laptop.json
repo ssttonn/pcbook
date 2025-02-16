@@ -1,27 +1,27 @@
 {
-  "id":  "dcdd5e6b-c7a0-4ebc-8c5c-b0c3d56e694b",
+  "id":  "93aee908-239e-40bc-9263-4caa09242eea",
   "brand":  "Lenovo",
-  "name":  "Thinkpad X1",
+  "name":  "Thinkpad P53",
   "cpu":  {
-    "brand":  "Intel",
-    "name":  "Xeon E-2286M",
+    "brand":  "AMD",
+    "name":  "Ryzen 7 PRO 2700U",
     "number_cores":  6,
-    "number_threads":  7,
-    "min_ghz":  2.844775459049182,
-    "max_ghz":  4.68697332497692
+    "number_threads":  12,
+    "min_ghz":  3.1080367658409953,
+    "max_ghz":  3.362888008564651
   },
   "ram":  {
-    "value":  "27",
+    "value":  "50",
     "unit":  "GIGABYTE"
   },
   "gpus":  [
     {
-      "brand":  "Nvidia",
-      "name":  "GTX 1660-Ti",
-      "min_ghz":  1.395430105994462,
-      "max_ghz":  1.8583245136185382,
+      "brand":  "AMD",
+      "name":  "RX 590",
+      "min_ghz":  1.3661446673403885,
+      "max_ghz":  1.8638986416275563,
       "memory":  {
-        "value":  "2",
+        "value":  "5",
         "unit":  "GIGABYTE"
       }
     }
@@ -30,7 +30,7 @@
     {
       "driver":  "SSD",
       "memory":  {
-        "value":  "589",
+        "value":  "719",
         "unit":  "GIGABYTE"
       }
     },
@@ -43,20 +43,20 @@
     }
   ],
   "screen":  {
-    "size_inch":  16.047234,
+    "size_inch":  14.519192,
     "resolution":  {
-      "width":  3978,
-      "height":  2238
+      "width":  5968,
+      "height":  3357
     },
-    "panel":  "OLED",
-    "multitouch":  false
+    "panel":  "IPS",
+    "multitouch":  true
   },
   "keyboard":  {
-    "layout":  "QWERTY",
+    "layout":  "QWERTZ",
     "backlit":  false
   },
-  "weight_kg":  2.6410173796872893,
-  "price_usd":  2923.874259428367,
-  "release_year":  2017,
-  "updated_at":  "2025-02-15T08:18:23.602571Z"
+  "weight_kg":  2.198659241711444,
+  "price_usd":  2328.633864264823,
+  "release_year":  2015,
+  "updated_at":  "2025-02-16T09:27:47.319857Z"
 }
